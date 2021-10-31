@@ -1,5 +1,7 @@
 # My To Do List App on React
 
+# You can Add your ToDo's.
+
 ## To run the app first clone the repository.
 
 ## Then install the packeges by: 
