@@ -1,14 +1,14 @@
 # My To Do List App on React
 
-# You can Add your ToDo's.
+> You can Add your ToDo's.
 
-## To run the app first clone the repository.
+> To run the app first clone the repository.
 
-## Then install the packeges by: 
+> Then install the packeges by: 
 
 ### `npm install`
 
-## After installing the packages directly run the app by:
+> After installing the packages directly run the app by:
 
 ### `npm start`
 
